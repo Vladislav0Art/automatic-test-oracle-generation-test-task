@@ -121,7 +121,7 @@ Given a representation of a binary tree, write a function that will determine wh
 
 For instance, all the trees of the following image are not similar because they either have different values of nodes or the structure is not the same.
 
-<img width="500" src="./assets/img/trees.png"/>
+<img alt="example of trees" width="500" src="./assets/img/white-trees.png"/>
 
 Implementation:
 
